@@ -33,3 +33,8 @@
 
 [![Linkedin: Milene](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milene-sena/)](https://www.linkedin.com/in/milene-sena/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:milenesena210@gmail.com)
+
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DarlingUUi.DarlingUUi" />
+  <img align="right" src="https://img.shields.io/github/followers/DarlingUUi?label=Follow&style=social" />
+</h1>
