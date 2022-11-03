@@ -33,4 +33,3 @@
 
 [![Linkedin: Milene](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milene-sena/)](https://www.linkedin.com/in/milene-sena/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:milenesena210@gmail.com)
-[![GitHub Milene]( https://img.shields.io/github/followers/Milene-Sena
