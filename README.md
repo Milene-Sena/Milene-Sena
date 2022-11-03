@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milene-Sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Estou estudando para aprimorar meus conhecimentos e habilidades.
 - 🎓 &nbsp; Estudando Ciências da Computação na <a href="https://unifagoc.edu.br/">Unifagoc</a>.
 - 💼 &nbsp; Trabalhando como Analista De Sistemas Computacionais na <a href="https://site.datac.com.br/">Data C</a>
 - 🌱 &nbsp; Aprendendo mais sobre as sefuintes linguagens.
