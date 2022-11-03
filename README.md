@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Estou estudando para aprimorar meus conhecimentos e habilidades.
 - 🎓 &nbsp; Estudando Ciências da Computação na <a href="https://unifagoc.edu.br/">Unifagoc</a>.
 - 💼 &nbsp; Trabalhando como Analista De Sistemas Computacionais na <a href="https://site.datac.com.br/">Data C</a>
-- 🌱 &nbsp; Aprendendo mais sobre as sefuintes linguagens.
+- 🌱 &nbsp; Aprendendo mais sobre as seguintes linguagens.
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
