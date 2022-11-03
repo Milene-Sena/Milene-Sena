@@ -1,10 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milene-Sena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h3> :woman: &nbsp;Milene Sena </h3>
 
 - 🤔 &nbsp; Estou estudando para aprimorar meus conhecimentos e habilidades.
 - 🎓 &nbsp; Estudando Ciências da Computação na <a href="https://unifagoc.edu.br/">Unifagoc</a>.
