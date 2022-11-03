@@ -11,7 +11,6 @@
  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
  
-
   
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -33,5 +32,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Milene](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milene-sena/)](https://www.linkedin.com/in/milene-sena/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwert
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:milenesena210@gmail.com)
+[![GitHub Milene]( https://img.shields.io/github/followers/Milene-Sena
